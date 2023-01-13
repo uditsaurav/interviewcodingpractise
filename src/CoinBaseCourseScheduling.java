@@ -79,10 +79,6 @@ CS
 OS
 
 */
-
-import com.sun.tools.javac.util.StringUtils;
-
-import java.io.*;
 import java.util.*;
 
 public class CoinBaseCourseScheduling {
